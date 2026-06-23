@@ -7,6 +7,7 @@ IMG = os.path.join(BASE, "imagens")
 def img(n): return os.path.join(IMG, n)
 
 config = {
+ "eyebrow": "RELATÓRIO ANALÍTICO · DEMOGRAFIA",
  "titulo": "Indicadores Populacionais do Brasil",
  "subtitulo": "Censo Demográfico IBGE 2022 — Análise das 27 Unidades da Federação",
  "meta": "Autora: Ana Paula Galdino  •  Pós-graduação em Data Analytics (POSTECH/FIAP)  •  Junho de 2026",
